@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="magenta">#FFFF00FF</color>
+    <color name="lavender">#e6fafa</color>
+    <color name="paleGreen">#4f9673</color>
+    <color name="pressedColor">#FF5722</color>
+    <color name="defaultColor">#2196F3</color>
+    <color name="ivory">#fafad2</color>
+    <color name="lightGreen">#e6fad2</color>
+</resources>

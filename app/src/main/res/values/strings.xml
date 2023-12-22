@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">DotAndBox</string>
+    <!-- res/values/strings.xml -->
+
+        <string-array name="dropdown_items">
+            <item>5x5</item>
+            <item>8x5</item>
+            <item>7x7</item>
+            <item>10x6</item>
+            <!-- Add more items as needed -->
+        </string-array>
+</resources>
