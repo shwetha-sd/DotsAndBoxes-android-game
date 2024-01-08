@@ -1,6 +1,7 @@
 # DotsAndBoxes-android-game
 This is my first android app
-![Screenshot_20240108-112513_DotAndBox](https://github.com/shwetha-sd/DotsAndBoxes-android-game/assets/106987594/2f13db15-5b96-4c58-ac5a-875ade453729)
+![Screenshot_20240108-112513_DotAndBox](https://github.com/shwetha-sd/DotsAndBoxes-android-game/assets/106987594/7e153918-0552-4bd2-97bb-8f6a9606b811)
+
 
 ![Screenshot_20240108-112253_DotAndBox](https://github.com/shwetha-sd/DotsAndBoxes-android-game/assets/106987594/20786a74-b45c-46d2-979d-163b298b299c)
 
